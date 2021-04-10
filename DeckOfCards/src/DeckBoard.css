@@ -1,0 +1,17 @@
+.DeckButton {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin: 0 10px
+}
+
+.DeckButton:hover {
+    cursor: pointer;
+    background-color: tomato;
+}
+
+.CardBoard {
+    margin-top: 90px;
+}
+
